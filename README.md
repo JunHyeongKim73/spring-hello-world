@@ -6,11 +6,10 @@
 - Gradle
 
 # How to run
-- Clone the Git repository.
-- Open Command Prompt and Change directory (cd) to folder containing pom.xml
-- Open Eclipse
-  - File -> Import -> Existing Maven Project -> Navigate to the folder where you unzipped the zip
-  - Select the right project
-- Choose the Spring Boot Application file (search for @SpringBootApplication)
-- Right-click on the file and Run as Java Application
-- You are all Set
+- Open IntelliJ IDEA
+- Click **Get from VCS**
+- Enter URL `https://github.com/JunHyeongKim73/spring-hello-world.git`
+- Click **Clone**
+- Run `src/main/java/com.example.springhelloworld/SpringHelloWorldApplication`
+- Enter URL `http://localhost:8080/hello`
+- You can see "Hello World"!
