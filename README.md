@@ -13,3 +13,6 @@
 - Run `src/main/java/com.example.springhelloworld/SpringHelloWorldApplication`
 - Enter URL `http://localhost:8080/hello`
 - You can see "Hello World"!
+
+# Result
+<img width="1920" alt="스크린샷 2022-12-16 23 27 20" src="https://user-images.githubusercontent.com/56298375/208119904-4c5e9785-0396-4902-8f7e-479d6fc86f17.png">
