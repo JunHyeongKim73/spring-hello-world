@@ -1,8 +1,8 @@
 # Environment
-- IDE: IntelliJ IDEA Ultimate
-- OS: Mac OS
-- Spring Boot version
-- Java version
+- IDE : IntelliJ IDEA Ultimate
+- OS : Mac OS
+- Spring Boot 3.0.0
+- Java 18
 - Gradle
 
 # How to run
@@ -12,5 +12,5 @@
   - File -> Import -> Existing Maven Project -> Navigate to the folder where you unzipped the zip
   - Select the right project
 - Choose the Spring Boot Application file (search for @SpringBootApplication)
-- Right Click on the file and Run as Java Application
+- Right-click on the file and Run as Java Application
 - You are all Set
