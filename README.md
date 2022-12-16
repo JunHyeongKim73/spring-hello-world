@@ -1,4 +1,9 @@
 # Environment
+- IDE: IntelliJ IDEA Ultimate
+- OS: Mac OS
+- Spring Boot version
+- Java version
+- Gradle
 
 # How to run
 - Clone the Git repository.
